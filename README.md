@@ -1,5 +1,6 @@
 # puip
 puIP is a simple CLI tool for checking your public IP.
+![demo](https://github.com/nukhes/puip/assets/79018158/90889b29-3671-4f9c-a458-6d1229f8cf18)
 
 # building🛠️
 to build this project, you need to install .NET 8.0 or higher.
